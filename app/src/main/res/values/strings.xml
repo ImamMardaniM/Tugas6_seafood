@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_nama">SEAFOOD</string>
+    <string-array name="data_array">
+        <item>PILIH MENU</item>
+        <item>KEPITING SAUS PADANG</item>
+        <item>KEPITING TELUR ASIN</item>
+        <item>KEPITING LADA HITAM</item>
+        <item>KEPITING BUMBU RUJAK</item>
+        <item>IKAN BAKAR AJI-AJI</item>
+        <item>CUMI TELUR BAKAR</item>
+        <item>CUMI GORENG MENTEGA</item>
+        <item>UDANG BAKAR</item>
+        <item>KERANG HIJAU SAUS PADANG</item>
+        <item>KERANG PUTIH TAUCO</item>
+    </string-array>
+</resources>
